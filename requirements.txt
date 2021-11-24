@@ -1,0 +1,6 @@
+automata-lib
+pandas
+graphviz
+colormath
+jupyterlab
+visual-automata
