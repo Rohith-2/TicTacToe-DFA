@@ -1,7 +1,7 @@
 # TicTacToe-DFA
 ## 19AIE301 - Formal Language and Automata 
 
-Implementing a GUI based TicTacToe running on Deterministic Finite Automata
+Implementing a GUI based TicTacToe running on Deterministic Finite Automata on Python 3.9
 
 ## Implemented NFA
 ![nfa](https://github.com/Rohith-2/TicTacToe-DFA/blob/main/images/NFA.png)
