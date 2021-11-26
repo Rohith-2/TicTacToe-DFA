@@ -17,7 +17,7 @@ python src/main.py
 [Rohith Ramakrishnan](https://github.com/Rohith-2)  
 [Kavya Suresh Kumar](https://github.com/kavyasureshkumar)  
 [Meghna Menon](https://github.com/meghnabmenon)  
-[Asmitha](https://github.com/AsmithaUbaid)
+[Asmitha](https://github.com/AsmithaUbaid)  
 [Roshan Tushar](https://github.com/roshantushar)  
 
 ## Packages Utilised 
